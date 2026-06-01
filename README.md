@@ -5,7 +5,6 @@ Your personal AI assistant powered by Google Gemini 2.5 Flash, built with Python
 ## 🚀 Features
 - Chat with Gemini 2.5 Flash AI
 - Clean and simple chat interface
-- Conversation memory (remembers chat history)
 - Error handling for API issues
 
 ## 🛠️ Tech Stack
@@ -40,9 +39,6 @@ python -m streamlit run app.py
 2. Click "Get API Key"
 3. Create a new key
 4. Paste it in app.py
-
-## 📸 Screenshot
-Coming soon!
 
 ## 👤 Author
 adhiv367
